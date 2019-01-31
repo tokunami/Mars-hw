@@ -21,5 +21,5 @@ $(yourEnv) pip install Flask-PyMongo
 $(yourEnv) cd Mars-hw
 $ python app.py
 ```
-visit http://localhost/5000 on your browser
+visit http://localhost:5000 on your browser
 
